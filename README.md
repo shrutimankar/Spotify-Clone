@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spotify Clone 
 
 A responsive and interactive Spotify Clone built using HTML, CSS, and JavaScript.  
@@ -46,3 +47,7 @@ Developed by Shruti Mankar
 ## Support
 
 If you like this project, give it a star on GitHub 
+=======
+# Spotify-Clone
+This is spotify clone for listening music.
+>>>>>>> fbf8f324e148dfe54e85835f3cc5c796e7f62056
