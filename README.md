@@ -43,6 +43,6 @@ Spotify Clone interface inspired by the original Spotify web player.
 
 Developed by Shruti Mankar
 
-## ⭐ Support
+## Support
 
-If you like this project, give it a star on GitHub ⭐
+If you like this project, give it a star on GitHub 
